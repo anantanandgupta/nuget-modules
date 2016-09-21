@@ -6,10 +6,12 @@
     <title>Angular UI - Mask (Module)</title>
     <authors>Anant Anand Gupta</authors>
     <owners>anantanandgupta</owners>
-    <iconUrl>http://angular-ui.github.io/logo/UI_Shield.png</iconUrl>
+    <iconUrl>https://anantanandgupta.github.io/nuget-modules/images/ui-logo.png</iconUrl>
+    <projectUrl>https://anantanandgupta.github.io/nuget-modules/images/ui-logo.png</projectUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <description>Re-Package of Angular UI Modules</description>
-    <releaseNotes>Packed Version 1.8.7</releaseNotes>
+    <summary>A consistent packaging to reduce the confusion in the distribution of Angular UI modules.</summary>
+    <releaseNotes>Packed Version 1.8.7 of ui-mask from Angular UI</releaseNotes>
     <copyright>Copyright 2016</copyright>
     <tags>Angular-UI Mask</tags>
   </metadata>
