@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>MG.Packages.Angular.UI.Validate</id>
+    <version>1.2.2</version>
+    <title>Angular UI - Validate (Module)</title>
+    <authors>Anant Anand Gupta</authors>
+    <owners>anantanandgupta</owners>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <projectUrl>https://anantanandgupta.github.io/nuget-modules</projectUrl>
+    <iconUrl>https://anantanandgupta.github.io/nuget-modules/images/ui-logo.png</iconUrl>
+    <description>Re-Package of Angular UI Modules</description>
+    <summary>A consistent packaging to reduce the confusion in the distribution of Angular UI modules.</summary>
+    <releaseNotes>Packed Version 1.2.2 of ui-validate from Angular UI</releaseNotes>
+    <copyright>Copyright 2016</copyright>
+    <tags>Angular-UI Validate</tags>
+  </metadata>
+  <files>
+    <file src="validate.js" target="content\Scripts\mg\packages\angular-ui\validate.js" />
+    <file src="validate.min.js" target="content\Scripts\mg\packages\angular-ui\validate.min.js" />
+  </files>
+</package>
