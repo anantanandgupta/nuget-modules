@@ -1,0 +1,31 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>MG.Packages.Angular.UI.Grid</id>
+    <version>3.2.9</version>
+    <title>Angular UI - Grid (Module)</title>
+    <authors>Anant Anand Gupta</authors>
+    <owners>anantanandgupta</owners>
+    <iconUrl>https://anantanandgupta.github.io/nuget-modules/images/ui-logo.png</iconUrl>
+    <projectUrl>https://anantanandgupta.github.io/nuget-modules</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Re-Package of Angular UI Modules</description>
+    <summary>A consistent packaging to reduce the confusion in the distribution of Angular UI modules.</summary>
+    <releaseNotes>Packed Version 3.2.9 of ui-grid from Angular UI</releaseNotes>
+    <copyright>Copyright 2016</copyright>
+    <tags>Angular-UI Mask</tags>
+  </metadata>
+  <files>
+    <!-- js files -->
+    <file src="ui-grid.js" target="content\Scripts\mg\packages\angular-ui\grid.js" />
+    <file src="ui-grid.min.js" target="content\Scripts\mg\packages\angular-ui\grid.min.js" />
+    <!-- css files -->
+    <file src="ui-grid.css" target="content\Content\mg\packages\angular-ui\grid.css" />
+    <file src="ui-grid.min.css" target="content\Content\mg\packages\angular-ui\grid.min.css" />
+    <!-- font files -->
+    <file src="ui-grid.eot" target="content\Content\mg\packages\angular-ui\fonts\grid.eot" />
+    <file src="ui-grid.css" target="content\Content\mg\packages\angular-ui\fonts\grid.svg" />
+    <file src="ui-grid.css" target="content\Content\mg\packages\angular-ui\fonts\grid.ttf" />
+    <file src="ui-grid.css" target="content\Content\mg\packages\angular-ui\fonts\grid.woff" />
+  </files>
+</package>

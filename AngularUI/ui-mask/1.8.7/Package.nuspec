@@ -7,7 +7,7 @@
     <authors>Anant Anand Gupta</authors>
     <owners>anantanandgupta</owners>
     <iconUrl>https://anantanandgupta.github.io/nuget-modules/images/ui-logo.png</iconUrl>
-    <projectUrl>https://anantanandgupta.github.io/nuget-modules/images/ui-logo.png</projectUrl>
+    <projectUrl>https://anantanandgupta.github.io/nuget-modules</projectUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <description>Re-Package of Angular UI Modules</description>
     <summary>A consistent packaging to reduce the confusion in the distribution of Angular UI modules.</summary>
