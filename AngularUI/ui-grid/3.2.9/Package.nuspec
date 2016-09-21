@@ -13,7 +13,7 @@
     <summary>A consistent packaging to reduce the confusion in the distribution of Angular UI modules.</summary>
     <releaseNotes>Packed Version 3.2.9 of ui-grid from Angular UI</releaseNotes>
     <copyright>Copyright 2016</copyright>
-    <tags>Angular-UI Mask</tags>
+    <tags>Angular-UI Grid</tags>
   </metadata>
   <files>
     <!-- js files -->
