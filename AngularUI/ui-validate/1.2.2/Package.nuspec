@@ -2,7 +2,7 @@
 <package >
   <metadata>
     <id>MG.Packages.Angular.UI.Validate</id>
-    <version>1.2.2</version>
+    <version>1.2.2-Patched</version>
     <title>Angular UI - Validate (Module)</title>
     <authors>Anant Anand Gupta</authors>
     <owners>anantanandgupta</owners>
@@ -16,7 +16,7 @@
     <tags>Angular-UI Validate</tags>
   </metadata>
   <files>
-    <file src="validate.js" target="content\Scripts\mg\packages\angular-ui\validate.js" />
-    <file src="validate.min.js" target="content\Scripts\mg\packages\angular-ui\validate.min.js" />
+    <file src="validate.js" target="content\Scripts\mg\package\angular-ui\validate.js" />
+    <file src="validate.min.js" target="content\Scripts\mg\package\angular-ui\validate.min.js" />
   </files>
 </package>

@@ -2,7 +2,7 @@
 <package >
   <metadata>
     <id>MG.Packages.Angular.UI.Grid</id>
-    <version>3.2.9</version>
+    <version>3.2.9-Patched</version>
     <title>Angular UI - Grid (Module)</title>
     <authors>Anant Anand Gupta</authors>
     <owners>anantanandgupta</owners>
@@ -17,15 +17,15 @@
   </metadata>
   <files>
     <!-- js files -->
-    <file src="ui-grid.js" target="content\Scripts\mg\packages\angular-ui\grid.js" />
-    <file src="ui-grid.min.js" target="content\Scripts\mg\packages\angular-ui\grid.min.js" />
+    <file src="ui-grid.js" target="content\Scripts\mg\package\angular-ui\grid.js" />
+    <file src="ui-grid.min.js" target="content\Scripts\mg\package\angular-ui\grid.min.js" />
     <!-- css files -->
-    <file src="ui-grid.css" target="content\Content\mg\packages\angular-ui\grid.css" />
-    <file src="ui-grid.min.css" target="content\Content\mg\packages\angular-ui\grid.min.css" />
+    <file src="ui-grid.css" target="content\Content\mg\package\angular-ui\grid.css" />
+    <file src="ui-grid.min.css" target="content\Content\mg\package\angular-ui\grid.min.css" />
     <!-- font files -->
-    <file src="ui-grid.eot" target="content\Content\mg\packages\angular-ui\fonts\grid.eot" />
-    <file src="ui-grid.css" target="content\Content\mg\packages\angular-ui\fonts\grid.svg" />
-    <file src="ui-grid.css" target="content\Content\mg\packages\angular-ui\fonts\grid.ttf" />
-    <file src="ui-grid.css" target="content\Content\mg\packages\angular-ui\fonts\grid.woff" />
+    <file src="ui-grid.eot" target="content\Content\mg\package\angular-ui\fonts\grid.eot" />
+    <file src="ui-grid.css" target="content\Content\mg\package\angular-ui\fonts\grid.svg" />
+    <file src="ui-grid.css" target="content\Content\mg\package\angular-ui\fonts\grid.ttf" />
+    <file src="ui-grid.css" target="content\Content\mg\package\angular-ui\fonts\grid.woff" />
   </files>
 </package>

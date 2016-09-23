@@ -2,7 +2,7 @@
 <package >
   <metadata>
     <id>MG.Packages.Angular.UI.Mask</id>
-    <version>1.8.7</version>
+    <version>1.8.7-Patched</version>
     <title>Angular UI - Mask (Module)</title>
     <authors>Anant Anand Gupta</authors>
     <owners>anantanandgupta</owners>
@@ -16,7 +16,7 @@
     <tags>Angular-UI Mask</tags>
   </metadata>
   <files>
-    <file src="mask.js" target="content\Scripts\mg\packages\angular-ui\mask.js" />
-    <file src="mask.min.js" target="content\Scripts\mg\packages\angular-ui\mask.min.js" />
+    <file src="mask.js" target="content\Scripts\mg\package\angular-ui\mask.js" />
+    <file src="mask.min.js" target="content\Scripts\mg\package\angular-ui\mask.min.js" />
   </files>
 </package>
