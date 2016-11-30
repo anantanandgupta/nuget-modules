@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>MG.Packages.Angular.UI.Bootstrap</id>
+    <version>2.3.0</version>
+    <title>Angular UI - Bootstrap (Module)</title>
+    <authors>Anant Anand Gupta</authors>
+    <owners>anantanandgupta</owners>
+    <iconUrl>https://anantanandgupta.github.io/nuget-modules/images/ui-logo.png</iconUrl>
+    <projectUrl>https://anantanandgupta.github.io/nuget-modules</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Re-Package of Angular UI Modules</description>
+    <summary>A consistent packaging to reduce the confusion in the distribution of Angular UI modules.</summary>
+    <releaseNotes>Packed Version 2.3.0 of ui-bootstrap from Angular UI</releaseNotes>
+    <copyright>Copyright 2016</copyright>
+    <tags>Angular-UI Bootstrap</tags>
+  </metadata>
+  <files>
+    <file src="ui-bootstrap.js" target="content\Scripts\mg\package\angular-ui\bootstrap.js" />
+    <file src="ui-bootstrap.min.js" target="content\Scripts\mg\package\angular-ui\bootstrap.min.js" />
+    <file src="ui-bootstrap-tpls.js" target="content\Scripts\mg\package\angular-ui\bootstrap-templates.js" />
+    <file src="ui-bootstrap-tpls.min.js" target="content\Scripts\mg\package\angular-ui\bootstrap-templates.min.js" />
+  </files>
+</package>
