@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>MG.Packages.Angular.Modules.ContextMenu</id>
+    <version>0.9.9</version>
+    <title>Angular Module - Bootstrap Context Menu (Module)</title>
+    <authors>Anant Anand Gupta</authors>
+    <owners>anantanandgupta</owners>
+    <iconUrl>https://anantanandgupta.github.io/nuget-modules/images/angular-logo.png</iconUrl>
+    <projectUrl>https://anantanandgupta.github.io/nuget-modules</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Re-Package of Angular Third Party Modules</description>
+    <summary>A consistent packaging to reduce the confusion in the distribution of Angular modules.</summary>
+    <releaseNotes>Packed Version 0.9.9 of ui.bootstrap.contextMenu from Templarian</releaseNotes>
+    <copyright>Copyright 2016</copyright>
+    <tags>Angular Modules Bootstrap Context Menu</tags>
+  </metadata>
+  <files>
+    <file src="contextMenu.js" target="content\Scripts\mg\package\modules\contextMenu\contextMenu.js" />
+    <file src="contextMenu.min.js" target="content\Scripts\mg\package\modules\contextMenu\contextMenu.min.js" />
+  </files>
+</package>
