@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>MG.Packages.Angular.UI.Router.Extras</id>
+    <version>0.1.3</version>
+    <title>Angular UI - Router Extras (Module)</title>
+    <authors>Anant Anand Gupta</authors>
+    <owners>anantanandgupta</owners>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <projectUrl>https://anantanandgupta.github.io/nuget-modules</projectUrl>
+    <iconUrl>https://anantanandgupta.github.io/nuget-modules/images/ui-logo.png</iconUrl>
+    <description>Re-Package of Angular UI Modules</description>
+    <summary>A consistent packaging to reduce the confusion in the distribution of Angular UI modules.</summary>
+    <releaseNotes>Packed Version 0.1.3 of ui-router-extras from Chris Thielen</releaseNotes>
+    <copyright>Copyright 2016</copyright>
+    <tags>Angular-UI Router-Extras</tags>
+  </metadata>
+  <files>
+    <file src="ct-ui-router-extras.js" target="content\Scripts\mg\package\angular-ui\router-extras.js" />
+    <file src="ct-ui-router-extras.min.js" target="content\Scripts\mg\package\angular-ui\router-extras.min.js" />
+    <file src="modular\ct-ui-router-extras.core.js" target="content\Scripts\mg\package\angular-ui\modular\router-extras.core.js" />
+    <file src="modular\ct-ui-router-extras.core.min.js" target="content\Scripts\mg\package\angular-ui\modular\router-extras.core.min.js" />
+    <file src="modular\ct-ui-router-extras.dsr.js" target="content\Scripts\mg\package\angular-ui\modular\router-extras.dsr.js" />
+    <file src="modular\ct-ui-router-extras.dsr.min.js" target="content\Scripts\mg\package\angular-ui\modular\router-extras.dsr.min.js" />
+    <file src="modular\ct-ui-router-extras.future.js" target="content\Scripts\mg\package\angular-ui\modular\router-extras.future.js" />
+    <file src="modular\ct-ui-router-extras.future.min.js" target="content\Scripts\mg\package\angular-ui\modular\router-extras.future.min.js" />
+    <file src="modular\ct-ui-router-extras.previous.js" target="content\Scripts\mg\package\angular-ui\modular\router-extras.previous.js" />
+    <file src="modular\ct-ui-router-extras.previous.min.js" target="content\Scripts\mg\package\angular-ui\modular\router-extras.previous.min.js" />
+    <file src="modular\ct-ui-router-extras.statevis.js" target="content\Scripts\mg\package\angular-ui\modular\router-extras.statevis.js" />
+    <file src="modular\ct-ui-router-extras.statevis.min.js" target="content\Scripts\mg\package\angular-ui\modular\router-extras.statevis.min.js" />
+    <file src="modular\ct-ui-router-extras.sticky.js" target="content\Scripts\mg\package\angular-ui\modular\router-extras.sticky.js" />
+    <file src="modular\ct-ui-router-extras.sticky.min.js" target="content\Scripts\mg\package\angular-ui\modular\router-extras.sticky.min.js" />
+    <file src="modular\ct-ui-router-extras.transition.js" target="content\Scripts\mg\package\angular-ui\modular\router-extras.transition.js" />
+    <file src="modular\ct-ui-router-extras.transition.min.js" target="content\Scripts\mg\package\angular-ui\modular\router-extras.transition.min.js" />
+  </files>
+</package>
